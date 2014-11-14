@@ -1,6 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/CodeForTheCaribbean/HarvestAPI.png?label=ready&title=Ready)](https://waffle.io/CodeForTheCaribbean/HarvestAPI)
 HarvestAPI
 =======
+[ ![Codeship Status for varunity/HarvestAPI](https://codeship.com/projects/0ac10180-4e49-0132-d7ea-3a9638ec5527/status)](https://codeship.com/projects/47627)
 
 Agricultural API - currently provides Jamaica agriculture data, eg. prices, crops, farms.
 
